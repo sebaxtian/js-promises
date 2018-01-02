@@ -1,6 +1,8 @@
 // Simular Operaciones Asincronas
 // Sincronizar Operaciones Asincronas
 // Promises A+ https://promisesaplus.com/
+// Agregar soporte a promesas en navegadores antiguos https://github.com/stefanpenner/es6-promise
+// Para soporte entre navegadores, Recomendado Usar: Polyfill.io https://polyfill.io/v2/docs/
 (function() {
 
     function getUsers() {
